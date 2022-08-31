@@ -9,6 +9,29 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>Imagenes.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>3DBBD81C28BD035100D3103C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3DBBD83028BD036200D3103C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3DBBD83B28BD036200D3103C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 	</dict>
 </dict>
 </plist>
